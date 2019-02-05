@@ -10,7 +10,7 @@
     },
     "body": {
       "style": {
-        "background": "#fffbbbb",
+        "background": "#ffffff",
         "border": "none"
       },
       "sections": [
@@ -30,7 +30,17 @@
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
-                    "size": "30"
+                    "size": "18"
+                  }
+                },
+                {
+                  "type": "label",
+                  "text": "Welcome to PG-Demo",
+                  "style": {
+                    "align": "center",
+                    "font": "Courier",
+                    "padding": "30",
+                    "size": "14"
                   }
                 },
                 {
@@ -41,16 +51,6 @@
                     "font": "HelveticaNeue-Bold",
                     "size": "30"
                   }
-                },
-                {
-                  "type": "label",
-                  "text": "Welcome to PG-Demo",
-                  "style": {
-                    "align": "center",
-                    "font": "Courier-Bold",
-                    "padding": "30",
-                    "size": "18"
-                  }
                 }
               ]
             },
@@ -58,13 +58,14 @@
               "type": "label",
               "style": {
                 "align": "right",
+                "padding": "10",
                 "color": "#000000",
                 "font": "HelveticaNeue",
-                "size": "18"
+                "size": "12"
               },
               "text": "Keep going for more",
               "href": {
-                "url": "https://raw.githubusercontent.com/pratik-ghadia/JD/master/Demo.json",
+                "url": "https://raw.githubusercontent.com/pratik-ghadia/JD/master/Demo.json?token=AQVD5Dzi2i90oHgB_y5oEH480xNSv37Iks5cWTyGwA%3D%3D",
                 "fresh": "true"
               }
             }
