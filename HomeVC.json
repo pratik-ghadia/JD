@@ -61,7 +61,6 @@
               "type": "label",
               "style": {
                 "align": "right",
-                "padding": "50",
                 "color": "#000000",
                 "font": "HelveticaNeue",
                 "size": "18"
