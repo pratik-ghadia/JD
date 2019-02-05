@@ -51,6 +51,15 @@
                     "font": "HelveticaNeue-Bold",
                     "size": "30"
                   }
+                },
+                {
+                  "type": "label",
+                  "text": "(　-_･) ︻デ═一  ▸",
+                  "style": {
+                    "align": "center",
+                    "font": "HelveticaNeue-Bold",
+                    "size": "30"
+                  }
                 }
               ]
             },
