@@ -30,7 +30,7 @@
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
-                    "size": "18"
+                    "size": "30"
                   }
                 },
                 {
@@ -58,7 +58,7 @@
                   "style": {
                     "align": "center",
                     "font": "HelveticaNeue-Bold",
-                    "size": "25"
+                    "size": "14"
                   }
                 }
               ]
