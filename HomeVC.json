@@ -19,7 +19,6 @@
             {
               "type": "vertical",
               "style": {
-                "spacing": "20",
                 "align": "center"
               },
               "components": [
