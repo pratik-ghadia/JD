@@ -1,3 +1,6 @@
+// 20190205143155
+// https://raw.githubusercontent.com/pratik-ghadia/JD/master/HomeVC.json
+
 {
   "$jason": {
     "head": {
@@ -47,18 +50,9 @@
                   "text": "Welcome to PG-Demo",
                   "style": {
                     "align": "center",
-                    "font": "Courier",
+                    "font": "Courier-Bold",
                     "padding": "30",
-                    "size": "14"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "(　-_･) ︻デ═一  ▸",
-                  "style": {
-                    "align": "center",
-                    "font": "HelveticaNeue-Bold",
-                    "size": "14"
+                    "size": "18"
                   }
                 }
               ]
@@ -67,10 +61,10 @@
               "type": "label",
               "style": {
                 "align": "right",
-                "padding": "10",
+                "padding": "50",
                 "color": "#000000",
                 "font": "HelveticaNeue",
-                "size": "12"
+                "size": "18"
               },
               "text": "Keep going for more",
               "href": {
