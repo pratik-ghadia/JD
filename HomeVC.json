@@ -19,7 +19,6 @@
             {
               "type": "vertical",
               "style": {
-                "padding": "30",
                 "spacing": "20",
                 "align": "center"
               },
@@ -43,9 +42,45 @@
                     "size": "18"
                   }
                 },
-                {
+                  {
+                  "type": "label",
+                  "text": "  _____",
+                  "style": {
+                    "align": "center",
+                    "font": "HelveticaNeue-Bold",
+                    "size": "30"
+                  }
+                },
+                  {
                   "type": "label",
                   "text": "c( O.O )ɔ",
+                  "style": {
+                    "align": "center",
+                    "font": "HelveticaNeue-Bold",
+                    "size": "30"
+                  }
+                },
+                  {
+                  "type": "label",
+                  "text": " (  -  ) ",
+                  "style": {
+                    "align": "center",
+                    "font": "HelveticaNeue-Bold",
+                    "size": "30"
+                  }
+                },
+                  {
+                  "type": "label",
+                  "text": " (     ) ",
+                  "style": {
+                    "align": "center",
+                    "font": "HelveticaNeue-Bold",
+                    "size": "30"
+                  }
+                },
+                {
+                  "type": "label",
+                  "text": " (_____) ",
                   "style": {
                     "align": "center",
                     "font": "HelveticaNeue-Bold",
